@@ -1,0 +1,8 @@
+{
+  "name": "Minimalist Habit Tracker",
+  "description": "A simple and minimalist habit tracker for daily, weekly, and monthly goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
